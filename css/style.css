@@ -33,3 +33,24 @@ body{
     font-size: larger;
 }
 /*Paragrafo Fine*/
+
+.blue{
+    background-color: #20a9e5;
+    color: #f2fafd;
+}
+
+.tabella-body{
+    background-color: #b1e5f2;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+th{
+    text-emphasis: none;
+    text-align: left;
+    padding-right: 180px;
+}
+
+#bianco{
+    background-color: #f2fafd;;
+}
