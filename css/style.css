@@ -1,6 +1,7 @@
 body{
     margin: 0;
 }
+
 /*Contenitore*/
 .contenitore{
     background-image: url(../img/pattern.png);
@@ -27,3 +28,8 @@ body{
     color: #838383;
 }
 
+/*Paragrafo*/
+.paragrafo{
+    font-size: larger;
+}
+/*Paragrafo Fine*/
