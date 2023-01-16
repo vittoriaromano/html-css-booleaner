@@ -33,7 +33,7 @@ body{
     font-size: larger;
 }
 /*Paragrafo Fine*/
-
+/*Tabella*/
 .blue{
     background-color: #20a9e5;
     color: #f2fafd;
@@ -54,3 +54,29 @@ th{
 #bianco{
     background-color: #f2fafd;;
 }
+/*Tabella Fine*/
+
+/*Footer*/
+h3{
+    color: #7e7e7e;
+    margin-top: 40px;
+}
+
+.photo-uno{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    color: #f2fafd;
+    font-size: 25px;
+    margin-top:100px;
+}
+    
+.photo-due{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    color: #f2fafd;
+    font-size: 25px;
+    
+}
+/*Footer Fine*/
